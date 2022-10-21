@@ -5,14 +5,14 @@ namespace Phppot;
 // this is the class for data source for handling Dadabase.
 class DataSource
 {
-    // making constants declaration for better encapsulation
+    // making constants declaration for database server 
     const HOST = 'localhost';
 
-    const USERNAME = 'root';
+    const USERNAME = 'id18249346_fmukarage';
 
-    const PASSWORD = '';
+    const PASSWORD = 'DhVkt>G4|*hii<a2';
 
-    const DATABASENAME = 'shoppn';
+    const DATABASENAME = 'id18249346_customer';
 
     private $conn;
     
